@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  - 📊 Federal University of Ceará - Computer Engineer and  Programming Learner ;
  - 😄 24 years .
  - 💬 Ask me about anything 
- - ⚡ Fun fact: 
+ 
  
 <div align="center">
   <a href="https://github.com/wwesleyaraujo">
